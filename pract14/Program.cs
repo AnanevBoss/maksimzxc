@@ -1,4 +1,9 @@
-public static class Program
+using System;
+
+class Program
 {
-    // Код класса
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, world!");
+    }
 }
